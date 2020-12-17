@@ -14,6 +14,8 @@ public class AmazonHooks {
 	public void teardown() {
 		
 		System.out.println("close the amazon browser");
+		System.out.println("close the amazon browser1");
+		
 	}
 
 }
